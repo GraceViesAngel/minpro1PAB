@@ -62,7 +62,7 @@ Setelah kuis selesai, aplikasi tidak hanya menampilkan skor akhir, tetapi juga m
 
 ---
 
-### ✦ Nilai Tambah
+### 📍 Nilai Tambah
 
 ➤ **Edit Data Peserta (Update)**  
 
