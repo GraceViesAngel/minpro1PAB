@@ -4,6 +4,11 @@
 
 ---
 
+### NAMA : GRACE VIES ANGEL
+### NIM : 2409116005
+### KELAS : A'2024
+---
+
 ## Deskripsi Aplikasi
 
 EduSmart Digital Literacy merupakan aplikasi mobile sederhana yang dibuat menggunakan framework Flutter. Aplikasi ini menyediakan sistem pendataan peserta sebelum memulai kuis, sehingga setiap hasil yang diperoleh dapat dikaitkan langsung dengan identitas pengguna.
