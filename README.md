@@ -1,6 +1,6 @@
-# EduSmart Digital Literacy 🎓
+# <h1 align="center">🎓 EduSmart Digital Literacy</h1>
 
-Aplikasi kuis literasi digital berbasis Flutter yang dirancang untuk membantu pengguna memahami konsep dasar etika internet dan penggunaan teknologi secara bijak.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a6bb56b4-17db-4d7e-8844-e844cadd8bee" />
 
 ---
 
